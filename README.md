@@ -1,12 +1,10 @@
-# Logistic_Regression_Analysis_for_Heart_Disease_Prediction
-
 # Analisis Data Prediksi Sakit Jantung menggunakan Regresi Logistik
 
 ## Pendahuluan
 Proyek ini bertujuan untuk memprediksi kemungkinan seseorang menderita penyakit jantung berdasarkan berbagai faktor risiko menggunakan model regresi logistik. Analisis ini dilakukan menggunakan dataset yang berisi data medis dari pasien.
 
 ## Dataset
-Dataset yang digunakan dalam proyek ini dapat ditemukan di [link dataset]([URL_dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)). Dataset ini mencakup atribut berikut:
+Dataset yang digunakan dalam proyek ini dapat ditemukan di [Kaggle: Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction). Dataset ini mencakup atribut berikut:
 - Age: Usia pasien
 - Sex: Jenis kelamin pasien (1 = Pria, 0 = Wanita)
 - ChestPainType: Tipe nyeri dada (0 = Typical Angina, 1 = Atypical Angina, 2 = Non-anginal Pain, 3 = Asymptomatic)
@@ -27,7 +25,8 @@ Untuk menjalankan analisis ini, pastikan Anda telah menginstal paket-paket berik
 - scikit-learn
 - matplotlib
 - seaborn
+- streamlit
 
 Anda dapat menginstal semua prasyarat menggunakan perintah berikut:
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install pandas numpy scikit-learn matplotlib seaborn streamlit
