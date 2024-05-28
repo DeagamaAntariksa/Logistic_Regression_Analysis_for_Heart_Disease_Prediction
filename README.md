@@ -6,7 +6,7 @@
 Proyek ini bertujuan untuk memprediksi kemungkinan seseorang menderita penyakit jantung berdasarkan berbagai faktor risiko menggunakan model regresi logistik. Analisis ini dilakukan menggunakan dataset yang berisi data medis dari pasien.
 
 ## Dataset
-Dataset yang digunakan dalam proyek ini dapat ditemukan di [link dataset](URL_dataset). Dataset ini mencakup atribut berikut:
+Dataset yang digunakan dalam proyek ini dapat ditemukan di [link dataset]([URL_dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)). Dataset ini mencakup atribut berikut:
 - Age: Usia pasien
 - Sex: Jenis kelamin pasien (1 = Pria, 0 = Wanita)
 - ChestPainType: Tipe nyeri dada (0 = Typical Angina, 1 = Atypical Angina, 2 = Non-anginal Pain, 3 = Asymptomatic)
